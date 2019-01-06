@@ -24,6 +24,8 @@ public class JourneyInfo {
 		this.oriLat = oriLat;
 		this.oriLon = oriLon;
 		this.year = year;
+		
+		//other comment here
 	}
 	
 
